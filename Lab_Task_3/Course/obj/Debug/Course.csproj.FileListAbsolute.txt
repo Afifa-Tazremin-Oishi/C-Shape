@@ -1,0 +1,7 @@
+D:\AIUB\9th Semester\C#\Lab_Task_3\Course\bin\Debug\Course.exe.config
+D:\AIUB\9th Semester\C#\Lab_Task_3\Course\bin\Debug\Course.exe
+D:\AIUB\9th Semester\C#\Lab_Task_3\Course\bin\Debug\Course.pdb
+D:\AIUB\9th Semester\C#\Lab_Task_3\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+D:\AIUB\9th Semester\C#\Lab_Task_3\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\C#\Lab_Task_3\Course\obj\Debug\Course.exe
+D:\AIUB\9th Semester\C#\Lab_Task_3\Course\obj\Debug\Course.pdb

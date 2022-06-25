@@ -1,0 +1,13 @@
+G:\Object oriented programming 2 C#\no2\bin\Debug\netcoreapp3.1\no2.exe
+G:\Object oriented programming 2 C#\no2\bin\Debug\netcoreapp3.1\no2.deps.json
+G:\Object oriented programming 2 C#\no2\bin\Debug\netcoreapp3.1\no2.runtimeconfig.json
+G:\Object oriented programming 2 C#\no2\bin\Debug\netcoreapp3.1\no2.runtimeconfig.dev.json
+G:\Object oriented programming 2 C#\no2\bin\Debug\netcoreapp3.1\no2.dll
+G:\Object oriented programming 2 C#\no2\bin\Debug\netcoreapp3.1\no2.pdb
+G:\Object oriented programming 2 C#\no2\obj\Debug\netcoreapp3.1\no2.csprojAssemblyReference.cache
+G:\Object oriented programming 2 C#\no2\obj\Debug\netcoreapp3.1\no2.AssemblyInfoInputs.cache
+G:\Object oriented programming 2 C#\no2\obj\Debug\netcoreapp3.1\no2.AssemblyInfo.cs
+G:\Object oriented programming 2 C#\no2\obj\Debug\netcoreapp3.1\no2.csproj.CoreCompileInputs.cache
+G:\Object oriented programming 2 C#\no2\obj\Debug\netcoreapp3.1\no2.dll
+G:\Object oriented programming 2 C#\no2\obj\Debug\netcoreapp3.1\no2.pdb
+G:\Object oriented programming 2 C#\no2\obj\Debug\netcoreapp3.1\no2.genruntimeconfig.cache

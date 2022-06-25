@@ -1,0 +1,27 @@
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\bin\Debug\netcoreapp3.1\Interface2.exe
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\bin\Debug\netcoreapp3.1\Interface2.deps.json
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.json
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.dev.json
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\bin\Debug\netcoreapp3.1\Interface2.dll
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\bin\Debug\netcoreapp3.1\Interface2.pdb
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\obj\Debug\netcoreapp3.1\Interface2.csprojAssemblyReference.cache
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfoInputs.cache
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfo.cs
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\obj\Debug\netcoreapp3.1\Interface2.csproj.CoreCompileInputs.cache
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\obj\Debug\netcoreapp3.1\Interface2.dll
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\obj\Debug\netcoreapp3.1\Interface2.pdb
+G:\Object oriented programming 2 C#\Codes\Midterm\Mid Assignment Code\Interface2\obj\Debug\netcoreapp3.1\Interface2.genruntimeconfig.cache
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\bin\Debug\netcoreapp3.1\Interface2.exe
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\bin\Debug\netcoreapp3.1\Interface2.deps.json
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.json
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.dev.json
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\bin\Debug\netcoreapp3.1\Interface2.dll
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\bin\Debug\netcoreapp3.1\Interface2.pdb
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfo.cs
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.dll
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.pdb
+C:\Users\ThinkPad\Downloads\Interface2 (1)\Interface2\obj\Debug\netcoreapp3.1\Interface2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Teacher\Desktop\For_You(Array)\Single_Array\bin\Debug\Single_Array.exe.config
+C:\Users\Teacher\Desktop\For_You(Array)\Single_Array\bin\Debug\Single_Array.exe
+C:\Users\Teacher\Desktop\For_You(Array)\Single_Array\bin\Debug\Single_Array.pdb
+C:\Users\Teacher\Desktop\For_You(Array)\Single_Array\obj\Debug\Single_Array.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\For_You(Array)\Single_Array\obj\Debug\Single_Array.exe
+C:\Users\Teacher\Desktop\For_You(Array)\Single_Array\obj\Debug\Single_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Single_Array\bin\Debug\Single_Array.exe.config
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Single_Array\obj\Debug\Single_Array.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Single_Array\obj\Debug\Single_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Single_Array\bin\Debug\Single_Array.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Single_Array\bin\Debug\Single_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Single_Array\obj\Debug\Single_Array.csprojResolveAssemblyReference.cache

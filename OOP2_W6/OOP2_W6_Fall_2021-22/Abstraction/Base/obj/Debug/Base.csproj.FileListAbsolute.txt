@@ -1,0 +1,27 @@
+C:\Users\Teacher\Desktop\For You (Abstraction)\Base\bin\Debug\Base.exe.config
+C:\Users\Teacher\Desktop\For You (Abstraction)\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\For You (Abstraction)\Base\bin\Debug\Base.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Base\bin\Debug\Base.pdb
+C:\Users\Teacher\Desktop\For You (Abstraction)\Base\obj\Debug\Base.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Base\obj\Debug\Base.pdb
+C:\Users\Teacher\Desktop\22-24 Feb 2021\C#\For You (Abstraction)\Base\bin\Debug\Base.exe.config
+C:\Users\Teacher\Desktop\22-24 Feb 2021\C#\For You (Abstraction)\Base\obj\Debug\Base.exe
+C:\Users\Teacher\Desktop\22-24 Feb 2021\C#\For You (Abstraction)\Base\obj\Debug\Base.pdb
+C:\Users\Teacher\Desktop\22-24 Feb 2021\C#\For You (Abstraction)\Base\bin\Debug\Base.exe
+C:\Users\Teacher\Desktop\22-24 Feb 2021\C#\For You (Abstraction)\Base\bin\Debug\Base.pdb
+C:\Users\Teacher\Desktop\22-24 Feb 2021\C#\For You (Abstraction)\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Week-5\22-24 Feb 2021\C#\For You (Abstraction)\Base\bin\Debug\Base.exe.config
+C:\Users\Teacher\Desktop\Week-5\22-24 Feb 2021\C#\For You (Abstraction)\Base\obj\Debug\Base.exe
+C:\Users\Teacher\Desktop\Week-5\22-24 Feb 2021\C#\For You (Abstraction)\Base\obj\Debug\Base.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Base\bin\Debug\Base.exe.config
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Base\obj\Debug\Base.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Base\obj\Debug\Base.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Base\bin\Debug\Base.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Base\bin\Debug\Base.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Base\bin\Debug\Base.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Base\obj\Debug\Base.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Base\obj\Debug\Base.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Base\bin\Debug\Base.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Base\bin\Debug\Base.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache

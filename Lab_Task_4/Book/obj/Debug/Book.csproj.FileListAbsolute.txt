@@ -1,0 +1,6 @@
+D:\AIUB\9th Semester\C#\Lab_Task_4\Book\bin\Debug\Book.exe.config
+D:\AIUB\9th Semester\C#\Lab_Task_4\Book\bin\Debug\Book.exe
+D:\AIUB\9th Semester\C#\Lab_Task_4\Book\bin\Debug\Book.pdb
+D:\AIUB\9th Semester\C#\Lab_Task_4\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\C#\Lab_Task_4\Book\obj\Debug\Book.exe
+D:\AIUB\9th Semester\C#\Lab_Task_4\Book\obj\Debug\Book.pdb

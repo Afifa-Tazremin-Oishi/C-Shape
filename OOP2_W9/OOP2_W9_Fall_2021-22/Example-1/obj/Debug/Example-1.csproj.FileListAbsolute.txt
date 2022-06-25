@@ -1,0 +1,9 @@
+C:\Users\Teacher\Desktop\10Nov2021_C2\Example-1\bin\Debug\Example-1.exe.config
+C:\Users\Teacher\Desktop\10Nov2021_C2\Example-1\bin\Debug\Example-1.exe
+C:\Users\Teacher\Desktop\10Nov2021_C2\Example-1\bin\Debug\Example-1.pdb
+C:\Users\Teacher\Desktop\10Nov2021_C2\Example-1\obj\Debug\Example-1.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\10Nov2021_C2\Example-1\obj\Debug\Example-1.exe
+C:\Users\Teacher\Desktop\10Nov2021_C2\Example-1\obj\Debug\Example-1.pdb
+C:\Users\Teacher\Desktop\OOP2_W9_Fall_2021-22\Example-1\bin\Debug\Example-1.exe.config
+C:\Users\Teacher\Desktop\OOP2_W9_Fall_2021-22\Example-1\obj\Debug\Example-1.exe
+C:\Users\Teacher\Desktop\OOP2_W9_Fall_2021-22\Example-1\obj\Debug\Example-1.pdb

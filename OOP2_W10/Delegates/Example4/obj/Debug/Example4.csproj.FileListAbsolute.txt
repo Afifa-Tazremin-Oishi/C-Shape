@@ -1,0 +1,16 @@
+C:\Users\Teacher\Desktop\Today\Example4\bin\Debug\Example4.exe.config
+C:\Users\Teacher\Desktop\Today\Example4\bin\Debug\Example4.exe
+C:\Users\Teacher\Desktop\Today\Example4\bin\Debug\Example4.pdb
+C:\Users\Teacher\Desktop\Today\Example4\obj\Debug\Example4.exe
+C:\Users\Teacher\Desktop\Today\Example4\obj\Debug\Example4.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example4\bin\Debug\Example4.exe.config
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example4\obj\Debug\Example4.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example4\obj\Debug\Example4.pdb
+C:\Users\Teacher\Desktop\Delegates\Example4\bin\Debug\Example4.exe.config
+C:\Users\Teacher\Desktop\Delegates\Example4\obj\Debug\Example4.exe
+C:\Users\Teacher\Desktop\Delegates\Example4\obj\Debug\Example4.pdb
+C:\Users\Teacher\Desktop\Delegates\Example4\bin\Debug\Example4.exe
+C:\Users\Teacher\Desktop\Delegates\Example4\bin\Debug\Example4.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Delegates\Example4\bin\Debug\Example4.exe.config
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Delegates\Example4\obj\Debug\Example4.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Delegates\Example4\obj\Debug\Example4.pdb

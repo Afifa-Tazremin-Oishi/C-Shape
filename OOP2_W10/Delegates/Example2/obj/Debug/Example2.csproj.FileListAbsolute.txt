@@ -1,0 +1,15 @@
+C:\Users\Teacher\Desktop\Today\Example2\bin\Debug\Example2.exe.config
+C:\Users\Teacher\Desktop\Today\Example2\bin\Debug\Example2.exe
+C:\Users\Teacher\Desktop\Today\Example2\bin\Debug\Example2.pdb
+C:\Users\Teacher\Desktop\Today\Example2\obj\Debug\Example2.exe
+C:\Users\Teacher\Desktop\Today\Example2\obj\Debug\Example2.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example2\bin\Debug\Example2.exe.config
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example2\obj\Debug\Example2.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example2\obj\Debug\Example2.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example2\bin\Debug\Example2.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Spring_2020-21\Delegates\Example2\bin\Debug\Example2.pdb
+C:\Users\Teacher\Desktop\Delegates\Example2\bin\Debug\Example2.exe.config
+C:\Users\Teacher\Desktop\Delegates\Example2\obj\Debug\Example2.exe
+C:\Users\Teacher\Desktop\Delegates\Example2\obj\Debug\Example2.pdb
+C:\Users\Teacher\Desktop\Delegates\Example2\bin\Debug\Example2.exe
+C:\Users\Teacher\Desktop\Delegates\Example2\bin\Debug\Example2.pdb

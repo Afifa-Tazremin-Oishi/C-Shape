@@ -1,0 +1,7 @@
+D:\AIUB\9th Semester\C#\Lab_Task_2\Mobile\bin\Debug\Mobile.exe.config
+D:\AIUB\9th Semester\C#\Lab_Task_2\Mobile\bin\Debug\Mobile.exe
+D:\AIUB\9th Semester\C#\Lab_Task_2\Mobile\bin\Debug\Mobile.pdb
+D:\AIUB\9th Semester\C#\Lab_Task_2\Mobile\obj\Debug\Mobile.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\C#\Lab_Task_2\Mobile\obj\Debug\Mobile.exe
+D:\AIUB\9th Semester\C#\Lab_Task_2\Mobile\obj\Debug\Mobile.pdb
+D:\AIUB\9th Semester\C#\Lab_Task_2\Mobile\obj\Debug\Mobile.csproj.AssemblyReference.cache

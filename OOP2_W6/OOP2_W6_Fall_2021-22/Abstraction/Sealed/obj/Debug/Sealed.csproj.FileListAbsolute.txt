@@ -1,0 +1,9 @@
+C:\Users\Teacher\Desktop\For You (Abstraction)\Sealed\bin\Debug\Sealed.exe.config
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Sealed\bin\Debug\Sealed.exe.config
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Sealed\bin\Debug\Sealed.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Sealed\bin\Debug\Sealed.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Sealed\obj\Debug\Sealed.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Sealed\obj\Debug\Sealed.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Sealed\bin\Debug\Sealed.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Sealed\obj\Debug\Sealed.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Sealed\obj\Debug\Sealed.pdb

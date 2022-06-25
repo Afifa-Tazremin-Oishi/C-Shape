@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Function", "Static_Function\Static_Function.csproj", "{ED767983-866F-4207-BE18-1869765FF0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Operator", "Static_Operator\Static_Operator.csproj", "{BBF89821-7EFB-4C5F-9C36-C2D34386F5B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic_Virtual", "Dynamic_Virtual\Dynamic_Virtual.csproj", "{FDF696F9-A106-4212-B7C2-34CB53C17D03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED767983-866F-4207-BE18-1869765FF0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED767983-866F-4207-BE18-1869765FF0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED767983-866F-4207-BE18-1869765FF0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED767983-866F-4207-BE18-1869765FF0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF89821-7EFB-4C5F-9C36-C2D34386F5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF89821-7EFB-4C5F-9C36-C2D34386F5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF89821-7EFB-4C5F-9C36-C2D34386F5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF89821-7EFB-4C5F-9C36-C2D34386F5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF696F9-A106-4212-B7C2-34CB53C17D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF696F9-A106-4212-B7C2-34CB53C17D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF696F9-A106-4212-B7C2-34CB53C17D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF696F9-A106-4212-B7C2-34CB53C17D03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+E:\AIUB\9th Semester\C#\Week_5_update_new\Contact\bin\Debug\Contact.exe.config
+E:\AIUB\9th Semester\C#\Week_5_update_new\Contact\bin\Debug\Contact.exe
+E:\AIUB\9th Semester\C#\Week_5_update_new\Contact\bin\Debug\Contact.pdb
+E:\AIUB\9th Semester\C#\Week_5_update_new\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+E:\AIUB\9th Semester\C#\Week_5_update_new\Contact\obj\Debug\Contact.exe
+E:\AIUB\9th Semester\C#\Week_5_update_new\Contact\obj\Debug\Contact.pdb
+E:\AIUB\9th Semester\C#\Week_5_update_new\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Teacher\Desktop\For You (Abstraction)\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.exe.config
+C:\Users\Teacher\Desktop\For You (Abstraction)\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\For You (Abstraction)\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.pdb
+C:\Users\Teacher\Desktop\For You (Abstraction)\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.exe.config
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.csprojResolveAssemblyReference.cache

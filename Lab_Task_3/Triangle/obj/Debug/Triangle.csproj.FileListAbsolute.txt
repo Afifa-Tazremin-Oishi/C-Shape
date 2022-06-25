@@ -1,0 +1,7 @@
+D:\AIUB\9th Semester\C#\Lab_Task_3\Triangle\bin\Debug\Triangle.exe.config
+D:\AIUB\9th Semester\C#\Lab_Task_3\Triangle\bin\Debug\Triangle.exe
+D:\AIUB\9th Semester\C#\Lab_Task_3\Triangle\bin\Debug\Triangle.pdb
+D:\AIUB\9th Semester\C#\Lab_Task_3\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\C#\Lab_Task_3\Triangle\obj\Debug\Triangle.exe
+D:\AIUB\9th Semester\C#\Lab_Task_3\Triangle\obj\Debug\Triangle.pdb
+D:\AIUB\9th Semester\C#\Lab_Task_3\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Operator\bin\Debug\Static_Operator.exe.config
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Operator\bin\Debug\Static_Operator.exe
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Operator\bin\Debug\Static_Operator.pdb
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Operator\obj\Debug\Static_Operator.exe
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Operator\obj\Debug\Static_Operator.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Operator\bin\Debug\Static_Operator.exe.config
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Operator\obj\Debug\Static_Operator.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Operator\obj\Debug\Static_Operator.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Polymorphism\Static_Operator\bin\Debug\Static_Operator.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Polymorphism\Static_Operator\obj\Debug\Static_Operator.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Polymorphism\Static_Operator\obj\Debug\Static_Operator.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Polymorphism\Static_Operator\bin\Debug\Static_Operator.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Polymorphism\Static_Operator\bin\Debug\Static_Operator.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Polymorphism\Static_Operator\obj\Debug\Static_Operator.csprojResolveAssemblyReference.cache

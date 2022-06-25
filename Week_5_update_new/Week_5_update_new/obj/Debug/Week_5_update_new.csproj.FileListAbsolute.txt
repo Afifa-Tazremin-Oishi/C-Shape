@@ -1,0 +1,7 @@
+E:\AIUB\9th Semester\C#\Week_5_update_new\Week_5_update_new\bin\Debug\Week_5_update_new.exe.config
+E:\AIUB\9th Semester\C#\Week_5_update_new\Week_5_update_new\bin\Debug\Week_5_update_new.exe
+E:\AIUB\9th Semester\C#\Week_5_update_new\Week_5_update_new\bin\Debug\Week_5_update_new.pdb
+E:\AIUB\9th Semester\C#\Week_5_update_new\Week_5_update_new\obj\Debug\Week_5_update_new.csproj.AssemblyReference.cache
+E:\AIUB\9th Semester\C#\Week_5_update_new\Week_5_update_new\obj\Debug\Week_5_update_new.csproj.CoreCompileInputs.cache
+E:\AIUB\9th Semester\C#\Week_5_update_new\Week_5_update_new\obj\Debug\Week_5_update_new.exe
+E:\AIUB\9th Semester\C#\Week_5_update_new\Week_5_update_new\obj\Debug\Week_5_update_new.pdb

@@ -1,0 +1,16 @@
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\bin\Debug\net5.0\Contact-AddressBook.exe
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\bin\Debug\net5.0\Contact-AddressBook.deps.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\bin\Debug\net5.0\Contact-AddressBook.runtimeconfig.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\bin\Debug\net5.0\Contact-AddressBook.runtimeconfig.dev.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\bin\Debug\net5.0\Contact-AddressBook.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\bin\Debug\net5.0\ref\Contact-AddressBook.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\bin\Debug\net5.0\Contact-AddressBook.pdb
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.csprojAssemblyReference.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.AssemblyInfoInputs.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.AssemblyInfo.cs
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\ref\Contact-AddressBook.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.pdb
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Contact-AddressBook\obj\Debug\net5.0\Contact-AddressBook.genruntimeconfig.cache

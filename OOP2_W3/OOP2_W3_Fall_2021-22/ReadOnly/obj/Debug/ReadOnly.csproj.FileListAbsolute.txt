@@ -1,0 +1,10 @@
+C:\Users\Teacher\Desktop\Basics\ReadOnly\bin\Debug\ReadOnly.exe.config
+C:\Users\Teacher\Desktop\Basics\ReadOnly\bin\Debug\ReadOnly.exe
+C:\Users\Teacher\Desktop\Basics\ReadOnly\bin\Debug\ReadOnly.pdb
+C:\Users\Teacher\Desktop\Basics\ReadOnly\obj\Debug\ReadOnly.exe
+C:\Users\Teacher\Desktop\Basics\ReadOnly\obj\Debug\ReadOnly.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\ReadOnly\bin\Debug\ReadOnly.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\ReadOnly\obj\Debug\ReadOnly.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\ReadOnly\obj\Debug\ReadOnly.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\ReadOnly\bin\Debug\ReadOnly.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\ReadOnly\bin\Debug\ReadOnly.pdb

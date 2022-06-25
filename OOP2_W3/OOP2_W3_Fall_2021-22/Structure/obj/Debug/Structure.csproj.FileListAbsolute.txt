@@ -1,0 +1,17 @@
+C:\Users\Teacher\Desktop\Basics\Structure\bin\Debug\Structure.exe.config
+C:\Users\Teacher\Desktop\Basics\Structure\bin\Debug\Structure.exe
+C:\Users\Teacher\Desktop\Basics\Structure\bin\Debug\Structure.pdb
+C:\Users\Teacher\Desktop\Basics\Structure\obj\Debug\Structure.exe
+C:\Users\Teacher\Desktop\Basics\Structure\obj\Debug\Structure.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\Structure\bin\Debug\Structure.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\Structure\obj\Debug\Structure.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\Structure\obj\Debug\Structure.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\Structure\bin\Debug\Structure.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\Structure\bin\Debug\Structure.pdb
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\Structure\bin\Debug\Structure.exe.config
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\Structure\bin\Debug\Structure.exe
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\Structure\bin\Debug\Structure.pdb
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\Structure\obj\Debug\Structure.exe
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\Structure\obj\Debug\Structure.pdb

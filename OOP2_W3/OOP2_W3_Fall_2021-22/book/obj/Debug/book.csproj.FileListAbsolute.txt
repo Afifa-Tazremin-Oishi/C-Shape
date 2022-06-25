@@ -1,0 +1,7 @@
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\book\bin\Debug\book.exe.config
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\book\bin\Debug\book.exe
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\book\bin\Debug\book.pdb
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\book\obj\Debug\book.csproj.AssemblyReference.cache
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\book\obj\Debug\book.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\book\obj\Debug\book.exe
+D:\AIUB\9th Semester\C#\OOP2_W3_Fall_2021-22\OOP2_W3_Fall_2021-22\book\obj\Debug\book.pdb

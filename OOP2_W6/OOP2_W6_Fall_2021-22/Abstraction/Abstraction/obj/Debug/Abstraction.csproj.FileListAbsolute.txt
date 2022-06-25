@@ -1,0 +1,18 @@
+C:\Users\Teacher\Desktop\For You (Abstraction)\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Teacher\Desktop\For You (Abstraction)\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Teacher\Desktop\For You (Abstraction)\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\For You (Abstraction)\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache

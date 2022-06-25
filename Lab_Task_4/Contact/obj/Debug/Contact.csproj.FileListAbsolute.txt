@@ -1,0 +1,6 @@
+D:\AIUB\9th Semester\C#\Lab_Task_4\Contact\bin\Debug\Contact.exe.config
+D:\AIUB\9th Semester\C#\Lab_Task_4\Contact\bin\Debug\Contact.exe
+D:\AIUB\9th Semester\C#\Lab_Task_4\Contact\bin\Debug\Contact.pdb
+D:\AIUB\9th Semester\C#\Lab_Task_4\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+D:\AIUB\9th Semester\C#\Lab_Task_4\Contact\obj\Debug\Contact.exe
+D:\AIUB\9th Semester\C#\Lab_Task_4\Contact\obj\Debug\Contact.pdb

@@ -1,0 +1,10 @@
+C:\Users\Teacher\Desktop\Basics\String\bin\Debug\String.exe.config
+C:\Users\Teacher\Desktop\Basics\String\bin\Debug\String.exe
+C:\Users\Teacher\Desktop\Basics\String\bin\Debug\String.pdb
+C:\Users\Teacher\Desktop\Basics\String\obj\Debug\String.exe
+C:\Users\Teacher\Desktop\Basics\String\obj\Debug\String.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\String\bin\Debug\String.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\String\obj\Debug\String.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\String\obj\Debug\String.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\String\bin\Debug\String.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Fall_2021-22\String\bin\Debug\String.pdb

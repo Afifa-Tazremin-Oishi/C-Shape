@@ -1,0 +1,18 @@
+C:\Users\Teacher\Desktop\For You (Abstraction)\Interface\bin\Debug\Interface.exe.config
+C:\Users\Teacher\Desktop\For You (Abstraction)\Interface\bin\Debug\Interface.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Interface\bin\Debug\Interface.pdb
+C:\Users\Teacher\Desktop\For You (Abstraction)\Interface\obj\Debug\Interface.exe
+C:\Users\Teacher\Desktop\For You (Abstraction)\Interface\obj\Debug\Interface.pdb
+C:\Users\Teacher\Desktop\For You (Abstraction)\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Interface\bin\Debug\Interface.exe.config
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Interface\obj\Debug\Interface.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Interface\obj\Debug\Interface.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Interface\bin\Debug\Interface.exe
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Interface\bin\Debug\Interface.pdb
+C:\Users\Teacher\Desktop\OOP2_W5_Spring_2020-21\Abstraction\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Interface\bin\Debug\Interface.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Interface\obj\Debug\Interface.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Interface\obj\Debug\Interface.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Interface\bin\Debug\Interface.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Interface\bin\Debug\Interface.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Fall_2021-22\Abstraction\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache

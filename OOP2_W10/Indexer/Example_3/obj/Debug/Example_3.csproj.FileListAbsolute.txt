@@ -1,0 +1,8 @@
+C:\Users\Teacher\Desktop\Indexer\Example_3\bin\Debug\Example_3.exe.config
+C:\Users\Teacher\Desktop\Indexer\Example_3\bin\Debug\Example_3.exe
+C:\Users\Teacher\Desktop\Indexer\Example_3\bin\Debug\Example_3.pdb
+C:\Users\Teacher\Desktop\Indexer\Example_3\obj\Debug\Example_3.exe
+C:\Users\Teacher\Desktop\Indexer\Example_3\obj\Debug\Example_3.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Indexer\Example_3\bin\Debug\Example_3.exe.config
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Indexer\Example_3\obj\Debug\Example_3.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Indexer\Example_3\obj\Debug\Example_3.pdb

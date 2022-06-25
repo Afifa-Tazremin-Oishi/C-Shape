@@ -1,0 +1,13 @@
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\obj\Debug\netcoreapp3.1\Book-Library.csprojAssemblyReference.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\obj\Debug\netcoreapp3.1\Book-Library.AssemblyInfoInputs.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\obj\Debug\netcoreapp3.1\Book-Library.AssemblyInfo.cs
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\obj\Debug\netcoreapp3.1\Book-Library.csproj.CoreCompileInputs.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\bin\Debug\netcoreapp3.1\Book-Library.exe
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\bin\Debug\netcoreapp3.1\Book-Library.deps.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\bin\Debug\netcoreapp3.1\Book-Library.runtimeconfig.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\bin\Debug\netcoreapp3.1\Book-Library.runtimeconfig.dev.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\bin\Debug\netcoreapp3.1\Book-Library.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\bin\Debug\netcoreapp3.1\Book-Library.pdb
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\obj\Debug\netcoreapp3.1\Book-Library.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\obj\Debug\netcoreapp3.1\Book-Library.pdb
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Book-Library\obj\Debug\netcoreapp3.1\Book-Library.genruntimeconfig.cache

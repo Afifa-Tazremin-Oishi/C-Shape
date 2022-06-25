@@ -1,0 +1,10 @@
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe.config
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\bin\Debug\FormsApp1.exe
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\bin\Debug\FormsApp1.pdb
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Form1.resources
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\obj\Debug\FormsApp1.Properties.Resources.resources
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\obj\Debug\FormsApp1.exe
+C:\9th Semester\C#\Codes\FormsApp1\FormsApp1\obj\Debug\FormsApp1.pdb

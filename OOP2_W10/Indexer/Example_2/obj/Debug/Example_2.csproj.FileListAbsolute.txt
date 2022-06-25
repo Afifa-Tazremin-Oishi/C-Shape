@@ -1,0 +1,18 @@
+C:\Users\Teacher\Desktop\Indexer\Example1\bin\Debug\Example1.exe.config
+C:\Users\Teacher\Desktop\Indexer\Example1\obj\Debug\Example1.exe
+C:\Users\Teacher\Desktop\Indexer\Example1\obj\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\Indexer\Example1\bin\Debug\Example1.exe
+C:\Users\Teacher\Desktop\Indexer\Example1\bin\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\Indexer\Example_2\bin\Debug\Example1.exe.config
+C:\Users\Teacher\Desktop\Indexer\Example_2\obj\Debug\Example1.exe
+C:\Users\Teacher\Desktop\Indexer\Example_2\obj\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Indexer\Example_2\bin\Debug\Example1.exe.config
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Indexer\Example_2\obj\Debug\Example1.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Fall_2021-22\Indexer\Example_2\obj\Debug\Example1.pdb
+C:\9th Semester\C#\OOP2_W10_Fall_2021-22\Indexer\Example_2\bin\Debug\Example1.exe.config
+C:\9th Semester\C#\OOP2_W10_Fall_2021-22\Indexer\Example_2\bin\Debug\Example1.exe
+C:\9th Semester\C#\OOP2_W10_Fall_2021-22\Indexer\Example_2\bin\Debug\Example1.pdb
+C:\9th Semester\C#\OOP2_W10_Fall_2021-22\Indexer\Example_2\obj\Debug\Example_2.csproj.AssemblyReference.cache
+C:\9th Semester\C#\OOP2_W10_Fall_2021-22\Indexer\Example_2\obj\Debug\Example_2.csproj.CoreCompileInputs.cache
+C:\9th Semester\C#\OOP2_W10_Fall_2021-22\Indexer\Example_2\obj\Debug\Example1.exe
+C:\9th Semester\C#\OOP2_W10_Fall_2021-22\Indexer\Example_2\obj\Debug\Example1.pdb

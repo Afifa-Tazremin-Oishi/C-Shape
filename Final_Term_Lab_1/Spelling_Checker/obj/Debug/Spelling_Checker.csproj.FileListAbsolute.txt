@@ -1,0 +1,7 @@
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Spelling_Checker\bin\Debug\Spelling_Checker.exe.config
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Spelling_Checker\bin\Debug\Spelling_Checker.exe
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Spelling_Checker\bin\Debug\Spelling_Checker.pdb
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Spelling_Checker\obj\Debug\Spelling_Checker.csproj.AssemblyReference.cache
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Spelling_Checker\obj\Debug\Spelling_Checker.csproj.CoreCompileInputs.cache
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Spelling_Checker\obj\Debug\Spelling_Checker.exe
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Spelling_Checker\obj\Debug\Spelling_Checker.pdb

@@ -1,0 +1,15 @@
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example_Actual\bin\Debug\Example_Actual.exe.config
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example_Actual\bin\Debug\Example_Actual.exe
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example_Actual\bin\Debug\Example_Actual.pdb
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example_Actual\obj\Debug\Example_Actual.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example_Actual\obj\Debug\Example_Actual.exe
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example_Actual\obj\Debug\Example_Actual.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example_Actual\bin\Debug\Example_Actual.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example_Actual\obj\Debug\Example_Actual.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example_Actual\obj\Debug\Example_Actual.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example_Actual\bin\Debug\Example_Actual.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example_Actual\bin\Debug\Example_Actual.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example_Actual\obj\Debug\Example_Actual.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Indexer\Example_Actual\bin\Debug\Example_Actual.exe.config
+C:\Users\Teacher\Desktop\Indexer\Example_Actual\obj\Debug\Example_Actual.exe
+C:\Users\Teacher\Desktop\Indexer\Example_Actual\obj\Debug\Example_Actual.pdb

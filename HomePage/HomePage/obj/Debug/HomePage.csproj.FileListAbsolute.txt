@@ -1,0 +1,10 @@
+C:\9th Semester\C#\Codes\HomePage\HomePage\bin\Debug\HomePage.exe.config
+C:\9th Semester\C#\Codes\HomePage\HomePage\bin\Debug\HomePage.exe
+C:\9th Semester\C#\Codes\HomePage\HomePage\bin\Debug\HomePage.pdb
+C:\9th Semester\C#\Codes\HomePage\HomePage\obj\Debug\HomePage.csproj.AssemblyReference.cache
+C:\9th Semester\C#\Codes\HomePage\HomePage\obj\Debug\HomePage.Form1.resources
+C:\9th Semester\C#\Codes\HomePage\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+C:\9th Semester\C#\Codes\HomePage\HomePage\obj\Debug\HomePage.csproj.GenerateResource.cache
+C:\9th Semester\C#\Codes\HomePage\HomePage\obj\Debug\HomePage.csproj.CoreCompileInputs.cache
+C:\9th Semester\C#\Codes\HomePage\HomePage\obj\Debug\HomePage.exe
+C:\9th Semester\C#\Codes\HomePage\HomePage\obj\Debug\HomePage.pdb

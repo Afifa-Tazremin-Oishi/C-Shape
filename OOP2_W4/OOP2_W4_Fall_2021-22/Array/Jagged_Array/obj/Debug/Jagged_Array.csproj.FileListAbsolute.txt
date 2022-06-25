@@ -1,0 +1,17 @@
+C:\Users\Teacher\Desktop\For_You(Array)\Jagged_Array\bin\Debug\Jagged_Array.exe.config
+C:\Users\Teacher\Desktop\For_You(Array)\Jagged_Array\bin\Debug\Jagged_Array.exe
+C:\Users\Teacher\Desktop\For_You(Array)\Jagged_Array\bin\Debug\Jagged_Array.pdb
+C:\Users\Teacher\Desktop\For_You(Array)\Jagged_Array\obj\Debug\Jagged_Array.exe
+C:\Users\Teacher\Desktop\For_You(Array)\Jagged_Array\obj\Debug\Jagged_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Array\Jagged_Array\bin\Debug\Jagged_Array.exe.config
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Array\Jagged_Array\obj\Debug\Jagged_Array.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Array\Jagged_Array\obj\Debug\Jagged_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Array\Jagged_Array\bin\Debug\Jagged_Array.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Array\Jagged_Array\bin\Debug\Jagged_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Array\Jagged_Array\obj\Debug\Jagged_Array.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Jagged_Array\bin\Debug\Jagged_Array.exe.config
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Jagged_Array\obj\Debug\Jagged_Array.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Jagged_Array\obj\Debug\Jagged_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Jagged_Array\bin\Debug\Jagged_Array.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Jagged_Array\bin\Debug\Jagged_Array.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Fall_2021-22\Array\Jagged_Array\obj\Debug\Jagged_Array.csprojResolveAssemblyReference.cache

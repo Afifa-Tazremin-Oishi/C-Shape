@@ -1,0 +1,7 @@
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Salary_2\bin\Debug\Salary_2.exe.config
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Salary_2\bin\Debug\Salary_2.exe
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Salary_2\bin\Debug\Salary_2.pdb
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Salary_2\obj\Debug\Salary_2.csproj.CoreCompileInputs.cache
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Salary_2\obj\Debug\Salary_2.exe
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Salary_2\obj\Debug\Salary_2.pdb
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Salary_2\obj\Debug\Salary_2.csproj.AssemblyReference.cache

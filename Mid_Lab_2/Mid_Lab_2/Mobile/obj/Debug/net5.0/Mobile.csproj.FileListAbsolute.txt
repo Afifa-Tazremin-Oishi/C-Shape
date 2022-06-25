@@ -1,0 +1,16 @@
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\bin\Debug\net5.0\Mobile.exe
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\bin\Debug\net5.0\Mobile.deps.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\bin\Debug\net5.0\Mobile.runtimeconfig.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\bin\Debug\net5.0\Mobile.runtimeconfig.dev.json
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\bin\Debug\net5.0\Mobile.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\bin\Debug\net5.0\ref\Mobile.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\bin\Debug\net5.0\Mobile.pdb
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.csprojAssemblyReference.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.AssemblyInfoInputs.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.AssemblyInfo.cs
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\ref\Mobile.dll
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.pdb
+C:\Users\Mahmodul Kabir\OneDrive\Source\Repository\Mid_Lab_2\Mobile\obj\Debug\net5.0\Mobile.genruntimeconfig.cache

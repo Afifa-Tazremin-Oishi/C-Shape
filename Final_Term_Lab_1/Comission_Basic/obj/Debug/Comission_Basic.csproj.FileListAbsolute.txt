@@ -1,0 +1,6 @@
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Comission_Basic\bin\Debug\Comission_Basic.exe.config
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Comission_Basic\bin\Debug\Comission_Basic.exe
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Comission_Basic\bin\Debug\Comission_Basic.pdb
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Comission_Basic\obj\Debug\Comission_Basic.csproj.CoreCompileInputs.cache
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Comission_Basic\obj\Debug\Comission_Basic.exe
+E:\AIUB\9th Semester\C#\Final_Term_Lab_1\Comission_Basic\obj\Debug\Comission_Basic.pdb
